@@ -1,0 +1,2 @@
+C:\WORKSPACE\Xamarin\Mytunes\XAM130\XAM130\Exercise 1\Start\Calculator\Calculator.UWP\Calculator.UWP.csproj;x86
+C:\WORKSPACE\Xamarin\Mytunes\XAM130\XAM130\Exercise 1\Start\Calculator\Calculator\Calculator.csproj;neutral

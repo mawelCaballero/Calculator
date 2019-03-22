@@ -1,0 +1,8 @@
+C:\WORKSPACE\Xamarin\Mytunes\XAM130\XAM130\Exercise 1\Start\Calculator.Shared\bin\Debug\netstandard1.1\Calculator.Shared.deps.json
+C:\WORKSPACE\Xamarin\Mytunes\XAM130\XAM130\Exercise 1\Start\Calculator.Shared\bin\Debug\netstandard1.1\Calculator.Shared.dll
+C:\WORKSPACE\Xamarin\Mytunes\XAM130\XAM130\Exercise 1\Start\Calculator.Shared\bin\Debug\netstandard1.1\Calculator.Shared.pdb
+C:\WORKSPACE\Xamarin\Mytunes\XAM130\XAM130\Exercise 1\Start\Calculator.Shared\obj\Debug\netstandard1.1\Calculator.Shared.csproj.CoreCompileInputs.cache
+C:\WORKSPACE\Xamarin\Mytunes\XAM130\XAM130\Exercise 1\Start\Calculator.Shared\obj\Debug\netstandard1.1\Calculator.Shared.AssemblyInfoInputs.cache
+C:\WORKSPACE\Xamarin\Mytunes\XAM130\XAM130\Exercise 1\Start\Calculator.Shared\obj\Debug\netstandard1.1\Calculator.Shared.AssemblyInfo.cs
+C:\WORKSPACE\Xamarin\Mytunes\XAM130\XAM130\Exercise 1\Start\Calculator.Shared\obj\Debug\netstandard1.1\Calculator.Shared.dll
+C:\WORKSPACE\Xamarin\Mytunes\XAM130\XAM130\Exercise 1\Start\Calculator.Shared\obj\Debug\netstandard1.1\Calculator.Shared.pdb
